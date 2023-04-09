@@ -31,7 +31,8 @@ Run the example code using
 ```
 python example.py
 ```
-Customize the code in <strong>test.py</strong> to use the algorithm on your own datasets.
+Customize the code in '<strong>test.py</strong>' to use the algorithm on your own datasets.
 
 ## Results
 
+![](https://github.com/ArminMasoumian/K-Means-Clustering/blob/main/kmeansViz.png)
